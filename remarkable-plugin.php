@@ -3,7 +3,7 @@
 Plugin Name: ReMarkAble plug-in
 Plugin URI: https://remarkable.nl
 Description:
-Version: 1.0.4
+Version: 1.0.5
 Author: ReMarkAble Communicatie B.V.
 Author URI: https://remarkable.nl/
 License: GPL3
