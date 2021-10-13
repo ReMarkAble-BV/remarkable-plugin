@@ -17,8 +17,6 @@ $updateChecker = Puc_v4_Factory::buildUpdateChecker(
     'remarkable-plugin'
 );
 $updateChecker->getVcsApi()->enableReleaseAssets();
-$updateChecker->setAuthentication('your-token-here');
-
 
 add_filter( 'auto_plugin_update_send_email', '__return_false' );
 
