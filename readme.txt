@@ -1,1 +1,18 @@
-=== Plugin Name ===Contributors: ReMarkAbleRequires at least: 4.7Tested up to: 8.0Stable tag: 4.3Requires PHP: 7.4License: GPLv2 or laterLicense URI: https://www.gnu.org/licenses/gpl-2.0.htmlReMarkAble plugin== Changelog === 1.0.3 =* Updates= 1.0 =* Init version
+=== Plugin Name ===
+Contributors: ReMarkAble
+Requires at least: 4.7
+Tested up to: 8.0
+Stable tag: 1.0.5
+Requires PHP: 7.4
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+ReMarkAble plugin
+
+== Changelog ==
+
+= 1.0.5 =
+* Updates
+
+= 1.0 =
+* Init version
